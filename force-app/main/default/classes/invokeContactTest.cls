@@ -5,5 +5,6 @@ private without sharing class invokeContactTest {
         Contact con = new Contact(LastName = 'Ramya P');
         insert con;
         Contact con1 = invokeAcrossPackage.getContact();
+        invokeAcrossPackage.authorize();
     }
 }

@@ -4,8 +4,8 @@
             "path": "force-app",
             "default": true,
             "package": "Ramya Test Core",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "versionName": "ver 0.2",
+            "versionNumber": "0.2.0.NEXT"
         }
     ],
     "name": "SMBTestRepo",
@@ -17,6 +17,7 @@
         "Ramya Test Core@0.1.0-1": "04t5g000000lIb7AAE",
         "Ramya Test Core@0.1.0-2": "04t5g000000lIbCAAU",
         "Ramya Test Core@0.1.0-3": "04t5g000000lIbMAAU",
-        "Ramya Test Core@0.1.0-4": "04t5g000000lIbRAAU"
+        "Ramya Test Core@0.1.0-4": "04t5g000000lIbRAAU",
+        "Ramya Test Core@0.2.0-1": "04t5g000000lMJyAAM"
     }
 }
